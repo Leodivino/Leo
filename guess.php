@@ -10,7 +10,7 @@ $randomnumber= mt_rand(1,10);
 
 <form action="" method="POST">
 
-<p> Guess The Number</p>
+<h1> Guess The Number</h1>
 Guess a Number Between 1 and 10: 
 
 <input type="text" name="number_entered" value=''/> <br><br>
