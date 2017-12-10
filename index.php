@@ -42,7 +42,7 @@
 	echo "<h1>Game is over</h1>";
 	unset($_SESSION["counter"]);
 	session_destroy();
-	echo "<h1><a href='guess1.php'>Play AGain</a></h1>"; 
+	echo "<h1><a href='index.php'>Play AGain</a></h1>"; 
  }	 
  ?>
  </p>
